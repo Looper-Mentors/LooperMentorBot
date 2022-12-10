@@ -1,0 +1,6 @@
+{
+  "email": "<OpenAI_email>",
+  "password": "<OpenAI_password>",
+  "discord_bot_token": "<bot's token>",
+  "session_token": "<OpenAI_session_token>"
+}
